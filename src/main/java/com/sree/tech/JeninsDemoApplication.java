@@ -10,7 +10,7 @@ public class JeninsDemoApplication {
 	
 	private static Logger logger = LoggerFactory.getLogger(JeninsDemoApplication.class);
 	
-	public void intt() {
+	public  intt() {
 		logger.info("Application started with init ...");
 	}
 
