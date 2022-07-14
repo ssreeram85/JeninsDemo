@@ -12,7 +12,7 @@ class JeninsDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executed ...");
-		logger.info("Test case executed12 ...");
+		
 	}
 
 }
